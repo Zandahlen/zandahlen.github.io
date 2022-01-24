@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Integritetspolicy
 
 You can use the [editor on GitHub](https://github.com/Zandahlen/zandahlen.github.io/edit/main/bi-stegen/integritetspolicy.md) to maintain and preview the content for your website in Markdown files.
 
