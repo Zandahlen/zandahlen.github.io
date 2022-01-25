@@ -2,9 +2,9 @@
 
 
 
-### Markdown
+### Information som samlas in när du använder våra tjänster.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Inga, vi har inga servrar att lagra data på och ingen data skickas från appen till tredje part.
 
 ```markdown
 Syntax highlighted code block
