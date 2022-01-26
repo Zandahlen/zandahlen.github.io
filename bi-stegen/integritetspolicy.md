@@ -9,7 +9,12 @@ Inga, vi har inga servrar att lagra data på och ingen data skickas från appen 
 ### Appbehörigheter
 
 Appen kräver tillhörighet till följande:
- – Öppna länkar.
+#br
+ * Öppnande av länkar.
+ ```markdown
+<action android:name="android.intent.action.VIEW" />
+<data android:scheme="https" />
+```
 
 ### Kontakt
 
