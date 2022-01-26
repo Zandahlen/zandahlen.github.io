@@ -14,7 +14,7 @@ Appen kräver tillhörighet till följande:
 
 ### Kontakt
 
-Frågor om innehåll appens innehåll:
+Frågor om appens innehåll:
 ```markdown
 info@soultools.se
 ```
