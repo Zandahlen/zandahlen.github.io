@@ -10,11 +10,7 @@ Inga, vi har inga servrar att lagra data på och ingen data skickas från appen 
 
 Appen kräver tillhörighet till följande:
 
- * Öppnande av länkar.
-```markdown
-<action android:name="android.intent.action.VIEW" />
-<data android:scheme="https" />
-```
+ * Öppnande av https-länkar.
 
 ### Kontakt
 
