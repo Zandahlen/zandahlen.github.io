@@ -16,7 +16,7 @@ Appen kräver tillhörighet till följande:
 
 Frågor om innehåll appens innehåll:
 ```markdown
-examplemail@mail.com
+info@soultools.se
 ```
 Tekniska frågor om appen:
 ```markdown
